@@ -1,0 +1,5 @@
+Batch Converts all files in "Current Folder" 
+From jpeg-png-jfif-webp To jpg
+
+Might Require ImageMagick Installed 
+https://imagemagick.org/script/download.php#windows
